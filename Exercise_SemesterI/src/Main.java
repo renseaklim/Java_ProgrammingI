@@ -10,9 +10,8 @@ public class Main {
         obj3.Manipulate_String(); */
         TaskEight x = new TaskEight();
         x.input(0);
-<<<<<<< HEAD
+
         System.out.println("test");
-=======
->>>>>>> 9d7617a8c8d07b7b8095a68c5281eb56c8bf5300
+
     }
 }
