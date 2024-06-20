@@ -1,6 +1,6 @@
 
 import javax.swing.*;
-        import java.awt.*;
+import java.awt.*;
 
 public class Main extends JFrame {
     private JPasswordField passwordField;
